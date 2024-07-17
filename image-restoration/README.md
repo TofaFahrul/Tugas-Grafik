@@ -9,7 +9,7 @@ The image restoration techniques implemented are:
 * Constrained least squares filtering
 ## Dependencies
 - python v3
-- PyQt4
+- PyQt5
 - python libraries : opencv (to read/ save images), numpy, matplotlib
 ## Instructions to run
 ~~~~
